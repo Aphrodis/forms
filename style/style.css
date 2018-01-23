@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(150,160,170);
+}
+form li{
+list-style: none;	
+margin-bottom: 25px;
+}
+form li{
+	padding-left: 0;
+}
+label{
+	display: block;
+	cursor: pointer;
+	color: black;
+	font-family: arial black;
+	padding-bottom: 10px;
+}
+textarea{
+	width: 500px;
+	height: 150px;
+}
